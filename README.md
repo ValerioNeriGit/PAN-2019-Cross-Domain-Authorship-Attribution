@@ -11,7 +11,7 @@ If you find this code useful consider to cite this work.
 
 
 ```
-@inproceedings{bacciu2019cross,
+@article{bacciu2019cross,
   title={Cross-Domain Authorship Attribution Combining Instance-Based and Profile-Based Features},
   author={Bacciu, Andrea and La Morgia, Massimo and Mei, Alessandro and Nemmi, Eugenio Nerio and Neri, Valerio and Stefa, Julinda},
   year={2019}
