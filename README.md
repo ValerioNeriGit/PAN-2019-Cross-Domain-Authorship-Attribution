@@ -1,4 +1,4 @@
-#PAN 2019 Cross Domain Authorship Attribution
+# PAN 2019 Cross Domain Authorship Attribution
 
 This repo contains the machine learning model which got the **2th** place to the [PAN19](https://pan.webis.de/) shared task *Cross Domain Authorship Attribution*.
 
@@ -17,3 +17,7 @@ If you find this code useful consider to cite this work.
   year={2019}
 }
 ```
+
+# Authors
+* **Valerio Neri**  - [github](https://github.com/valerionerigit)
+* **Andrea Bacciu**  - [github](https://github.com/andreabac3)
