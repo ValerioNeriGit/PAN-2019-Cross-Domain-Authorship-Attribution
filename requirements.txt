@@ -28,7 +28,7 @@ prompt-toolkit==1.0.9
 ptyprocess==0.5.1
 pyasn1==0.1.9
 pycrypto==2.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 pyparsing==2.1.10
 python-dateutil==2.5.3
